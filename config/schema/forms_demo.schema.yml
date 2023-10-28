@@ -1,0 +1,8 @@
+# Schema for the configuration files of the Forms demo module.
+forms_demo.settings:
+  type: config_object
+  label: 'Forms demo settings'
+  mapping:
+    example:
+      type: string
+      label: 'Example'

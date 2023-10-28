@@ -1,0 +1,4 @@
+administer forms_demo configuration:
+  title: 'Administer forms_demo configuration'
+  description: 'Optional description.'
+  restrict access: true

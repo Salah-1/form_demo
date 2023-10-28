@@ -1,0 +1,5 @@
+name: Forms demo
+type: module
+description: Demo Various actions on forms such as alter hooks and similar
+package: Custom
+core_version_requirement: ^9 || ^10
